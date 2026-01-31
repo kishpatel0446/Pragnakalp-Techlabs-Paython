@@ -1,4 +1,4 @@
-def calculatePower(base,exponent):
+def calculate_power(base, exponent):
 
     #Handle edge Case when exponent is 0
     if exponent == 0:
@@ -25,7 +25,7 @@ try:
     base = int(input("Enter Base: "))
     exponent = int(input("Enter Exponent: "))
 
-    print(calculatePower(base,exponent))
+    print(calculate_power(base, exponent))
 
 #Handle for Invalid Input
 except ValueError:
