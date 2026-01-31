@@ -1,12 +1,12 @@
-def isPalindrome(n):
+def is_palindrome(number):
 
-    num = n
+    num = number
     rev = 0
 
-    while n > 0:
-        d = n % 10
+    while number > 0:
+        d = number % 10
         rev = rev * 10 + d
-        n = n // 10
+        number = number // 10
     if rev == num:
         print("True")
     else:
@@ -15,7 +15,7 @@ def isPalindrome(n):
 
 try:
     n = int(input("Enter Number: "))
-    isPalindrome(n)
+    is_palindrome(n)
 except ValueError:
     print("Invalid Number")
 
