@@ -4,12 +4,13 @@ def is_armstrong(number):
     n = 0
     temp = number
 
+    #Count n for calculate digits in number & acording to this we will multiply digit by itself fo n times
     while temp > 0:
         temp = temp // 10
         n += 1
 
-    sum = 0
-    temp = number
+    sum = 0    #To store sum of digit which will multiply itself by n times
+    temp = number #again use temp to original number to start again removing digits
     while temp > 0:
         d = temp % 10
         power = 1
