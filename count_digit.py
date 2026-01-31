@@ -1,4 +1,4 @@
-def countDigit(number,digit):
+def count_digit_frequency(number,digit):
 
     count = 0
     # For Digit range 0 to 9
@@ -30,4 +30,4 @@ except ValueError:
     print("Invalid Digit!")
     exit()
 
-countDigit(num,dig)
+count_digit_frequency(num,dig)
