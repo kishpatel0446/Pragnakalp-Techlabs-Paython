@@ -6,6 +6,7 @@ def gcd(num1,num2):
         num2 = rem
     return num1
 
+#Handle Invalid Input
 try:
     num1 = int(input("Enter 1st Number: "))
     num2 = int(input("Enter 2nd Number: "))
