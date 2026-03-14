@@ -1,0 +1,9 @@
+Total words:5
+Unique words:5
+Word frequency: 
+a:1
+b:1
+c:1
+d:1
+e:1
+Top 3 words:a(1),b(1),c(1)
