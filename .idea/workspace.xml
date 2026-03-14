@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b34c90b-8d5c-4b5c-933e-9d9cbbc2cb72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/contact_book.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_st_ip.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_stats.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +45,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.contact_book.executor": "Run",
+    "Python.data_stats.executor": "Run",
     "Python.fh_1.executor": "Run",
     "Python.fh_2.executor": "Run",
     "Python.fh_3.executor": "Run",
@@ -79,7 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1773465511315</updated>
       <workItem from="1773465513011" duration="528000" />
-      <workItem from="1773466078059" duration="21132000" />
+      <workItem from="1773466078059" duration="25933000" />
     </task>
     <servers />
   </component>
@@ -108,8 +110,9 @@
     <SUITE FILE_PATH="coverage/pythonTraining$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1773466513806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonTraining$fh_2.coverage" NAME="fh_2 Coverage Results" MODIFIED="1773470504487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonTraining$fh_4.coverage" NAME="fh_4 Coverage Results" MODIFIED="1773473328514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonTraining$data_stats.coverage" NAME="data_stats Coverage Results" MODIFIED="1773495756247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonTraining$word_analysis.coverage" NAME="word_analysis Coverage Results" MODIFIED="1773485646252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonTraining$contact_book.coverage" NAME="contact_book Coverage Results" MODIFIED="1773490936654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonTraining$contact_book.coverage" NAME="contact_book Coverage Results" MODIFIED="1773492401423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonTraining$fh_5.coverage" NAME="fh_5 Coverage Results" MODIFIED="1773475094687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonTraining$grade_management.coverage" NAME="grade_management Coverage Results" MODIFIED="1773482145738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonTraining$fh_3.coverage" NAME="fh_3 Coverage Results" MODIFIED="1773471814156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
