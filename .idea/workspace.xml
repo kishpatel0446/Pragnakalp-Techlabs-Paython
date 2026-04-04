@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b34c90b-8d5c-4b5c-933e-9d9cbbc2cb72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/file_cipher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/English.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/History.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/math.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/science.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stud_analyzer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tc1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tc1.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,31 +44,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.contact_book.executor&quot;: &quot;Run&quot;,
-    &quot;Python.data_stats.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fh_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fh_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fh_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fh_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fh_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.file_cipher.executor&quot;: &quot;Run&quot;,
-    &quot;Python.grade_management.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list_op.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.word_analysis.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.contact_book.executor": "Run",
+    "Python.data_stats.executor": "Run",
+    "Python.fh_1.executor": "Run",
+    "Python.fh_2.executor": "Run",
+    "Python.fh_3.executor": "Run",
+    "Python.fh_4.executor": "Run",
+    "Python.fh_5.executor": "Run",
+    "Python.file_cipher.executor": "Run",
+    "Python.grade_management.executor": "Run",
+    "Python.list_op.executor": "Run",
+    "Python.stud_analyzer.executor": "Run",
+    "Python.test1.executor": "Run",
+    "Python.word_analysis.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -87,7 +91,7 @@
       <workItem from="1775277191310" duration="3951000" />
       <workItem from="1775281281204" duration="97000" />
       <workItem from="1775281409964" duration="272000" />
-      <workItem from="1775281710739" duration="374000" />
+      <workItem from="1775281710739" duration="4793000" />
     </task>
     <servers />
   </component>
@@ -118,6 +122,7 @@
     <SUITE FILE_PATH="coverage/pythonTraining$list_op.coverage" NAME="list_op Coverage Results" MODIFIED="1773487633515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonTraining$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1773466513806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonTraining$fh_2.coverage" NAME="fh_2 Coverage Results" MODIFIED="1773470504487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonTraining$stud_analyzer.coverage" NAME="stud_analyzer Coverage Results" MODIFIED="1775286442125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonTraining$word_analysis.coverage" NAME="word_analysis Coverage Results" MODIFIED="1773485646252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonTraining$contact_book.coverage" NAME="contact_book Coverage Results" MODIFIED="1773492401423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonTraining$fh_5.coverage" NAME="fh_5 Coverage Results" MODIFIED="1773475094687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
