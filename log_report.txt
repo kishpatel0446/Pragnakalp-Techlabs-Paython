@@ -1,0 +1,7 @@
+Total Requests: 2
+Unique IPs: 1
+Status Distribution: {500: 2}
+Average Responses Time:
+10.0.0.1: 1100ms
+Problematic IPs:
+10.0.0.1: 100.00 % errors
