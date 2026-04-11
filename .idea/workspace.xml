@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b34c90b-8d5c-4b5c-933e-9d9cbbc2cb72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/log_ana.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log_analyzer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory_management.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +52,7 @@
     "Python.fh_5.executor": "Run",
     "Python.file_cipher.executor": "Run",
     "Python.grade_management.executor": "Run",
+    "Python.inventory_management.executor": "Run",
     "Python.list_op.executor": "Run",
     "Python.log_analyzer.executor": "Run",
     "Python.stud_analyzer.executor": "Run",
@@ -89,7 +89,9 @@
       <workItem from="1775277191310" duration="3951000" />
       <workItem from="1775281281204" duration="97000" />
       <workItem from="1775281409964" duration="272000" />
-      <workItem from="1775281710739" duration="9525000" />
+      <workItem from="1775281710739" duration="10261000" />
+      <workItem from="1775818163398" duration="299000" />
+      <workItem from="1775882751251" duration="3582000" />
     </task>
     <servers />
   </component>
