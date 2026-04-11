@@ -1,9 +1,15 @@
-Item: Laptop
-Quantity: 1
-Price: 50000.0
-Discount (10.0%): -5000.0
-Subtotal: 45000.0
+Item: Mouse
+Quantity: 2
+Price: 1000.0
+Discount (5.0%): -50.0
+Subtotal: 950.0
 
-Grand Total: 45000.0
-Tax (18%): 8100.0
-Final Total: 53100.0
+Item: Keyboard
+Quantity: 1
+Price: 1500.0
+Discount (0.0%): -0.0
+Subtotal: 1500.0
+
+Grand Total: 2450.0
+Tax (18%): 441.0
+Final Total: 2891.0
