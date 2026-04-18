@@ -1,0 +1,5 @@
+Filtered Records (age > 25):
+None
+
+Department Statistics:
+No departments found
